@@ -21,6 +21,15 @@ haubu_github_ai/
 
 ## Danh sách Skills
 
+### YouTube Story Cloner
+
+| Skill | Ngôn ngữ output | Nhân vật chính | Chapter | Trigger |
+|-------|----------------|----------------|---------|---------|
+| [Clone_YT](Clone_YT/) | Tiếng Anh | Navy SEAL + Chó GSD | 12 chap + Bài học + Prompts MJ | `clone yt`, `clone video`, `/Clone_YT` |
+| [Clone_YT_Nga](Clone_YT_Nga/) | Tiếng Nga | Cựu binh Liên Xô + Chó sói xám | Hook + 10 chap + Bài học + Prompts MJ | `clone nga`, `clone video nga`, `/Clone_YT_Nga` |
+
+> Nhận 1 YouTube URL → tự động lấy transcript → thiết kế câu chuyện hoàn toàn mới → viết toàn bộ nội dung humanized → xuất file .txt + prompts Midjourney.
+
 ### Tử Vi & Mệnh Lý
 
 | Skill | Mô tả | Trigger |
