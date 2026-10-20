@@ -36,6 +36,12 @@ haubu_github_ai/
 |-------|--------|---------|
 | [tuvi-destiny-analyzer](mkt/.claude/skills/tuvi-destiny-analyzer/) | Phân tích lá số Tử Vi chuyên sâu theo **Tam Hợp Nam Phái** — 7 bước suy luận, nhận dạng cách cục, đại hạn & lưu niên | `phân tích lá số`, `xem tử vi`, `/tuvi-destiny-analyzer` |
 
+### Chứng khoán
+
+| Công cụ | Mô tả |
+|---------|--------|
+| [stock_vn](stock_vn/) | Theo dõi cổ phiếu VN: giá gần realtime + báo cáo tài chính → chỉ báo định giá, chất lượng, tín hiệu mua/giữ/tránh |
+
 ### Marketing & Content
 
 | Skill | Mô tả |
